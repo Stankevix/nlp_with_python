@@ -5,9 +5,9 @@ Conteudo deste repositorio é composto de codigos proprios desenvolvidos nos cur
 
 ## Introdução ao processamento de linguagem natural
 
-* Expressões regulares e word tokenization
+* Expressões regulares, word tokenization, Bag of words, Word Clouds e TFIDF
 * Introdução ao Modelo spaCy
-* Identidicando Entidades
+* Identificando as Entidades
 * Criar um modelo de classficação de fake news (basico)
 
 ## Analise de Sentimentos
